@@ -303,7 +303,7 @@ namespace Genshin_Artifacts_Simulator
 
             if (rndStat <= 37)
             {
-                string[] mainStat = { "Elementary Mastery", "Pyro DMG Bonus%", "Cryo DMG Bonus%", "Electro DMG Bonus%", "Anemo DMG Bonus%", "Physical DMG Bonus%", "Hydro DMG Bonus%", "DMG Bonus%" };
+                string[] mainStat = { "Elementary Mastery", "Pyro DMG Bonus%", "Cryo DMG Bonus%", "Electro DMG Bonus%", "Anemo DMG Bonus%", "Physical DMG Bonus%", "Hydro DMG Bonus%", "Geo DMG Bonus%" };
                 int numStat = rnd.Next(mainStat.Length);
                 Console.WriteLine("MAIN STAT: {0}", mainStat[numStat]);
                 Console.WriteLine("___________________");
