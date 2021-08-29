@@ -36,6 +36,9 @@ namespace Genshin_Artifacts_Simulator
                 if (Enter == "") // This condition will reduce the amount of resin by 20 when generating artifacts
                 {
                     resinCount -= 20;
+                } else
+                {
+                    resinCount -= 20;
                 }
 
                 if (resinCount < -1) // Once the resin runs out, the program will end and displays a message that the player runs out of resin
