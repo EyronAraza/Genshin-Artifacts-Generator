@@ -1,0 +1,13 @@
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.exe
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.deps.json
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.runtimeconfig.json
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.runtimeconfig.dev.json
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.dll
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\bin\Debug\netcoreapp3.1\Genshin Artifacts Simulator.pdb
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.csprojAssemblyReference.cache
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.AssemblyInfoInputs.cache
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.AssemblyInfo.cs
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.dll
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.pdb
+C:\Users\Eyron\source\repos\Genshin Artifacts Simulator\Genshin Artifacts Simulator\obj\Debug\netcoreapp3.1\Genshin Artifacts Simulator.genruntimeconfig.cache
